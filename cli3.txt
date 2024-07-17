@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 2CDE-03E4
+
+ Directory of C:\Users\PC\Desktop\p1
+
+24/06/2024  10:41 AM    <DIR>          .
+24/06/2024  09:32 AM    <DIR>          ..
+24/06/2024  09:56 AM                88 cli.html
+24/06/2024  10:38 AM                26 cli.txt
+24/06/2024  10:41 AM                 0 cli3.txt
+               3 File(s)            114 bytes
+               2 Dir(s)  85,242,249,216 bytes free
